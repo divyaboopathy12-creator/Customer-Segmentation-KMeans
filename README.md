@@ -29,3 +29,12 @@ This project implements a K-Means clustering algorithm to segment retail custome
 ## ▶️ How to Run
 ```bash
 streamlit run app.py
+## 📸 Output Screenshots
+
+> Note: This is a Streamlit application. GitHub does not execute Streamlit apps, so screenshots are provided.
+
+### 🔹 Customer Clusters Visualization
+![Customer Clusters](C:\Users\Boopathi\Desktop\task2\cluster_plot.png)
+
+### 🔹 Cluster Insights Table
+![Cluster Insights](C:\Users\Boopathi\Desktop\task2\cluster_insights.png)
